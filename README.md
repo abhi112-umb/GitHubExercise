@@ -1,2 +1,2 @@
 # GitHubExercise
-Exeercise for IT246
+Exercise for IT246
